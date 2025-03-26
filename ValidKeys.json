@@ -1,3 +1,2 @@
-{
-    "validKeys": ["123456", "abcdef", "mysecretkey"]
-}
+["123456", "abcdef", "mysecretkey"]
+
